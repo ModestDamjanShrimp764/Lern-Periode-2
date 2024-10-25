@@ -19,7 +19,7 @@
 
 ## 1.11.2024
 
-- [ ] Erstes Arbeitspaket
+- [ ] Erstes Arbeitspaket Ich muss noch überlegen. Habe keine Ideen für das Projekt.
 - [ ] ...
 - [ ] Viertes AP
 
