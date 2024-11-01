@@ -19,13 +19,16 @@
 
 ## 1.11.2024
 
-- [ ] Erstes Arbeitspaket Ich muss noch überlegen. Habe keine Ideen für das Projekt.
-- [ ] ...
-- [ ] Viertes AP
+- [ 1] Erstes Arbeitspaket Ich muss noch überlegen. Habe keine Ideen für das Projekt. Codeacademy gemacht.
+- [ 2] ... Quiz mit Fragen erstellt
+- [3 ] Viertes AP Schere,Stein, Papier spiel
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich... (50-100 Wörter) Heute habe ich mit Navid und Amar ein Programm das wie ein Quiz ist gemacht und es ist gut rausgekommmen. Wir haben danach noch ein Schere,Stein,Papier spiel prgrammiert gegen dem Computer. Ich finde es gut, dass das Projekt gut rausgekommen ist und wir auch viel Zeit in dieses Projekt investiert haben.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
-## ...
-
+## 08.11.2024
+- [] BMI Rechner
+-  [] Schere, Stein, Papier while schleife hinzufügen
+-[] Punktestand hinzufügen
+- [] Den Bmi rechner optimieren falls zeit.
