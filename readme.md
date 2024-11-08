@@ -23,7 +23,7 @@ Meine Idee ist es einen Number guesser zu machen. Oder etwas gösseres muss noch
 ✍️ Heute habe ich... (50-100 Wörter) Heute habe ich mit Navid und Amar ein Programm das wie ein Quiz ist gemacht und es ist gut rausgekommmen. Wir haben danach noch ein Schere,Stein,Papier spiel prgrammiert gegen dem Computer. Ich finde es gut, dass das Projekt gut rausgekommen ist und wir auch viel Zeit in dieses Projekt investiert haben.
 
 ## 08.11.2024
-- [ ] BMI Rechner
+- [ ] Kalorienrechner
 - [ ] Schere, Stein, Papier while schleife hinzufügen
 - [ ] Wetter App machen für Wetter
-- [ ] Den Bmi rechner optimieren falls zeit.
+- [ ] Den Kalorien rechner optimieren falls zeit.
