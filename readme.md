@@ -25,5 +25,5 @@ Meine Idee ist es einen Number guesser zu machen. Oder etwas gösseres muss noch
 ## 08.11.2024
 - [ ] BMI Rechner
 - [ ] Schere, Stein, Papier while schleife hinzufügen
-- [ ] Punktestand hinzufügen
+- [ ] Wetter App machen für Wetter
 - [ ] Den Bmi rechner optimieren falls zeit.
