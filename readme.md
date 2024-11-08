@@ -27,3 +27,12 @@ Meine Idee ist es einen Number guesser zu machen. Oder etwas gösseres muss noch
 - [ ] Schere, Stein, Papier while schleife hinzufügen
 - [ ] Wetter App machen für Wetter
 - [ ] Den Kalorien rechner optimieren falls zeit.
+
+Heute habe ich... habe ich einen Schere,Stein und Papier while und switch case hinzugefügt und gemacht. Ich habe auch noch eine Wetter-App programmiert, aber es zeigt nicht die richtigen Daten an, wie warm es wirklich ist. Es ist aber gut rausgekommen und es hat Spass gemacht. Ich habe einen Kaloriendefizitrechner gemacht, der sagt wie viel Kalorien man nehmen soll und wie man wie viele verbrennen soll. Er zeigt auch, was man essen sollte jeden Tag für 1 Woche.
+
+## 15.11.2024
+
+- [ ] Erstes Arbeitspaket ich muss noch bei dem Kalorienrechner machen das die Wochen verändert werden und für neue Woche neue Mahlzeiten angezeigt werden.
+- [ ] Bei Wetterapp vielleicht noch schauen falls es wirklich angezeigt werden kann.
+- [ ] Ich will vielleicht noch ein Spiel programmieren, wie Pingpong auf Visual oder so ähnliches
+- [ ] Ich würde falls ich Zeit habe einen Währungsrechner noch programmieren.
