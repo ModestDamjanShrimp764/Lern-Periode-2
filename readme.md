@@ -33,6 +33,6 @@ Heute habe ich... habe ich einen Schere,Stein und Papier while und switch case h
 ## 15.11.2024
 
 - [ ] Erstes Arbeitspaket ich muss noch bei dem Kalorienrechner machen das die Wochen verändert werden und für neue Woche neue Mahlzeiten angezeigt werden.
-- [ ] Bei Wetterapp vielleicht noch schauen falls es wirklich angezeigt werden kann.
+- [ ] Bmi rechner
 - [ ] Ich will vielleicht noch ein Spiel programmieren, wie Pingpong auf Visual oder so ähnliches
 - [ ] Ich würde falls ich Zeit habe einen Währungsrechner noch programmieren.
