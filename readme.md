@@ -36,3 +36,12 @@ Heute habe ich... habe ich einen Schere,Stein und Papier while und switch case h
 - [ ] Bmi rechner
 - [ ] Ich will vielleicht noch ein Spiel programmieren
 - [ ] Ich würde falls ich Zeit habe einen Währungsrechner noch programmieren.
+
+Heute habe ich alle Arbeitspakete erreicht. Ich habe ein Währungsrechner programmiert,Bmi Rechner,Hangman und ein Ratenspiel für das spielen. Ich finde es ist gut rausgekommen und es hat Spass gemacht es zu programmieren.
+
+## 22.11.2024
+- [ ] Ich würde nächstes mal versuchen einen Sudoku zu machen das auch gut ist. Ich weiss nicht ob es design dafür braucht.
+- [ ] Vielleicht würde ich auch noch einen Timer versuchen
+- [ ] Vielleicht wieder einen Taschenrechner machen
+- [ ] Falls ich es schaffe einen einfachen KI also nicht so krasse, eher einfachere
+      
