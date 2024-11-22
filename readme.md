@@ -44,4 +44,11 @@ Heute habe ich alle Arbeitspakete erreicht. Ich habe ein Währungsrechner progra
 - [ ] Vielleicht würde ich auch noch einen Timer versuchen
 - [ ] Vielleicht wieder einen Taschenrechner machen
 - [ ] Falls ich es schaffe einen einfachen KI also nicht so krasse, eher einfachere
+
+Heute habe ich Sudoku gemacht,Timer,Taschenrechner mit wurzel und KI einfach. Es hat mir sehr viel sehr viel spass gemacht dies zu programmieren.
+
+## 29.11.2024
+- [ ] To do Liste
+- [ ] Quiz spiel
+- [ ] Passwort generator
       
