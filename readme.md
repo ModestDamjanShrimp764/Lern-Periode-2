@@ -51,4 +51,11 @@ Heute habe ich Sudoku gemacht,Timer,Taschenrechner mit wurzel und KI einfach. Es
 - [ ] To do Liste
 - [ ] Quiz spiel
 - [ ] Passwort generator
+
+Heute habe ich Passwort generator gemacht,To do liste und quiz spiel.
+
+## 06.12.24
+- [ ] Tic tac toe
+- [ ] Taschenrechner
+- [ ] Kalender app
       
