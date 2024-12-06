@@ -58,4 +58,10 @@ Heute habe ich Passwort generator gemacht,To do liste und quiz spiel.
 - [ ] Tic tac toe
 - [ ] Taschenrechner
 - [ ] Kalender app
+      Heute habe ich ein Tic tac toe spiel gemacht, ein Taschenrechner und Kalender und es funktioniert alles und es hat echt spass gemacht.
+
+## 13.12.24
+- [ ] Notizen app
+- [ ] Reiseplaner
+- [ ] Budget manager
       
