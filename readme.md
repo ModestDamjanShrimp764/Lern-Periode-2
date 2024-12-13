@@ -65,3 +65,8 @@ Heute habe ich Passwort generator gemacht,To do liste und quiz spiel.
 - [ ] Reiseplaner
 - [ ] Budget manager
       
+Heute habe ich eîne Notiz app gemacht, einen reiseplaner und einen budget manager. Es hat viel Spass gemacht, es zu programmieren und es hat mich echt gefreut.
+
+## 20.12.2024
+- [ ] Eine app für lernen vielleicht.
+- [ ] App für Kalorien und essensvorschläge zum abnehmen.
