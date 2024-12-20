@@ -84,3 +84,5 @@ Heute habe ich eîne Notiz app gemacht, einen reiseplaner und einen budget manag
 
 ## Reflexion Projekt
 Ich bin zufrieden, da ich viel gelernt habe. Ich wusste nicht was ich machen sollte, deshalb habe ich immer verschiedene Programme gemacht und es hat mir sehr spass gemacht. Heute am ende habe ich alles in einem Programm gemacht und es ist gut rausgekommen, denke ich. Es sieht gut aus. Ich binf froh, dass ich viel gelernt habe in dieser Lernperiode und ja das wars.
+
+Das eigentliche Ergebnis ist das man auswählen kann, welches spiel man spielen will,ob stein papier,sudoku oder hangman und dann kann man es mit der Auswahl spielen. Es macht auch viel spass, meiner meinung nach.
