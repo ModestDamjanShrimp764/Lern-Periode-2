@@ -1,3 +1,12 @@
+<img width="863" alt="image" src="https://github.com/user-attachments/assets/09ec60cd-59cf-496a-b5ea-ca7e98d42840" />
+
+<img width="875" alt="image" src="https://github.com/user-attachments/assets/2d4f893d-1fa3-4d21-ae8b-aa4763b613cd" />
+
+
+
+
+
+
 # Lern-Periode 2
 
 25.10 bis 20.12
@@ -58,7 +67,8 @@ Heute habe ich Passwort generator gemacht,To do liste und quiz spiel.
 - [ ] Tic tac toe
 - [ ] Taschenrechner
 - [ ] Kalender app
-      Heute habe ich ein Tic tac toe spiel gemacht, ein Taschenrechner und Kalender und es funktioniert alles und es hat echt spass gemacht.
+
+Heute habe ich ein Tic tac toe spiel gemacht, ein Taschenrechner und Kalender und es funktioniert alles und es hat echt spass gemacht.
 
 ## 13.12.24
 - [ ] Notizen app
@@ -70,3 +80,7 @@ Heute habe ich eîne Notiz app gemacht, einen reiseplaner und einen budget manag
 ## 20.12.2024
 - [ ] Eine app für lernen vielleicht.
 - [ ] App für Kalorien und essensvorschläge zum abnehmen.
+
+
+## Reflexion Projekt
+Ich bin zufrieden, da ich viel gelernt habe. Ich wusste nicht was ich machen sollte, deshalb habe ich immer verschiedene Programme gemacht und es hat mir sehr spass gemacht. Heute am ende habe ich alles in einem Programm gemacht und es ist gut rausgekommen, denke ich. Es sieht gut aus. Ich binf froh, dass ich viel gelernt habe in dieser Lernperiode und ja das wars.
