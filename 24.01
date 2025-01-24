@@ -1,0 +1,93 @@
+﻿using System;
+
+class Program
+{
+    // Arrays zur Speicherung von Sport- und Ernährungsplänen
+    static string[] sportPlan = new string[10];
+    static string[] ernahrungsPlan = new string[10];
+
+    static void Main(string[] args)
+    {
+        int auswahl;
+
+        do
+        {
+            Console.Clear();
+            Console.WriteLine("========= Planungs-Tool =========");
+            Console.WriteLine("1. Sportaktivität hinzufügen");
+            Console.WriteLine("2. Ernährungsplan hinzufügen");
+            Console.WriteLine("3. Pläne anzeigen");
+            Console.WriteLine("4. Programm beenden");
+            Console.Write("Bitte wähle eine Option: ");
+            auswahl = Convert.ToInt32(Console.ReadLine());
+
+            switch (auswahl)
+            {
+                case 1:
+                    AktivitätHinzufügen(sportPlan, "Sportaktivität");
+                    break;
+                case 2:
+                    AktivitätHinzufügen(ernahrungsPlan, "Ernährungsplan");
+                    break;
+                case 3:
+                    PläneAnzeigen();
+                    break;
+                case 4:
+                    Console.WriteLine("Programm wird beendet. Bis bald!");
+                    break;
+                default:
+                    Console.WriteLine("Ungültige Eingabe. Bitte erneut versuchen.");
+                    break;
+            }
+
+            Console.WriteLine("Drücke eine beliebige Taste, um fortzufahren...");
+            Console.ReadKey();
+        } while (auswahl != 4);
+    }
+
+    // Methode zum Hinzufügen von Aktivitäten
+    static void AktivitätHinzufügen(string[] plan, string planTyp)
+    {
+        Console.WriteLine($"{planTyp} hinzufügen:");
+        Console.Write("Gib die Aktivität ein: ");
+        string aktivität = Console.ReadLine();
+
+        // Aktivität in das Array einfügen
+        for (int i = 0; i < plan.Length; i++)
+        {
+            if (string.IsNullOrEmpty(plan[i]))
+            {
+                plan[i] = aktivität;
+                Console.WriteLine($"{planTyp} wurde erfolgreich hinzugefügt!");
+                return;
+            }
+        }
+
+        Console.WriteLine($"Der {planTyp} ist voll. Lösche zuerst Einträge, um neue hinzuzufügen.");
+    }
+
+    // Methode zum Anzeigen der Pläne
+    static void PläneAnzeigen()
+    {
+        Console.WriteLine("===== Aktuelle Pläne =====");
+
+        Console.WriteLine("Sportplan:");
+        Anzeigen(sportPlan);
+
+        Console.WriteLine("Ernährungsplan:");
+        Anzeigen(ernahrungsPlan);
+    }
+
+    // Methode zur Ausgabe der Inhalte eines Plans
+    static void Anzeigen(string[] plan)
+    {
+        for (int i = 0; i < plan.Length; i++)
+        {
+            if (!string.IsNullOrEmpty(plan[i]))
+            {
+                Console.WriteLine($"- {plan[i]}");
+            }
+        }
+    }
+}
+
